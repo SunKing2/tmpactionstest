@@ -1,0 +1,11 @@
+name: My first workflow
+
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Echo a message
+      run: echo 'gutenduk fine workflow dispatch manually triggered guy thingy!'
