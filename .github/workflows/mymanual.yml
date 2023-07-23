@@ -1,4 +1,4 @@
-name: My first workflow
+name: My manual thingy workflow
 
 on: workflow_dispatch
 
