@@ -1,2 +1,2 @@
 # spew hello world
-print("Hello World!")
+print("Hello finer World!")
